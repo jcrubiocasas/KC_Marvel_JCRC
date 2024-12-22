@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "4K Wallpaper For Mobile Avengers Gallery.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "4K Wallpaper For Mobile Avengers Gallery 1.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "4K Wallpaper For Mobile Avengers Gallery 2.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

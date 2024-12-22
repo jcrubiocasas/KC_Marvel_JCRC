@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "56614-pel-cine-personaje_de_ficcion-critica_de_la_pelicula-vengadores-3840x2160.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "56614-pel-cine-personaje_de_ficcion-critica_de_la_pelicula-vengadores-3840x2160 1.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "56614-pel-cine-personaje_de_ficcion-critica_de_la_pelicula-vengadores-3840x2160 2.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "configurations" : [
+    {
+      "id" : "5664823D-0FAB-4E12-89D8-848DDE6C2B48",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:KC_Marvel_JCRC.xcodeproj",
+      "identifier" : "847D830E2D0DF0CA004E1DF7",
+      "name" : "KC_Marvel_JCRC"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:KC_Marvel_JCRC.xcodeproj",
+        "identifier" : "847D83382D0E0125004E1DF7",
+        "name" : "KC_Marvel_JCRC_SwiftUITest"
+      }
+    }
+  ],
+  "version" : 1
+}

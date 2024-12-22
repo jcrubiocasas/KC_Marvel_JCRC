@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "137045-decoracion_iluminada_de_oro_y_purpura-3840x2160.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "137045-decoracion_iluminada_de_oro_y_purpura-3840x2160 1.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "137045-decoracion_iluminada_de_oro_y_purpura-3840x2160 2.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
